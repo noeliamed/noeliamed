@@ -10,7 +10,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" />
   <img width=12" />
   <ing sre="https://cdn.: jsdelivr.net/gh/devicons/c devicon/ icons, /debian/debian-original. sVg" height="45" alt="debian logo" />
-  <ing width=*12" 1>
+  <ing width=*12" />
   <img src- "https://cdn.jsdelìvr.net/gh/devìcons/devicon/icons/visualstudio/visualstudio-plain.svg" height="45" alt-"visualstudio logo" />
   <img width="12"/>
   <img sre- "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo" />

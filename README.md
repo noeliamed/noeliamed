@@ -24,7 +24,7 @@
 <a href=https://www.instagram.com/noeliamedina.xo/" target="_blank">
   <img align="center" alt="Noelia Medina | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
-<a href="mailto:noelia27medinad@gmail.com" >
+<a href="mailto:noelia27medina@gmail.com" >
   <img align="center" alt="Noelia Medina | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <p>

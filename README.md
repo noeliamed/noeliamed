@@ -5,7 +5,7 @@
 <pre>
 💻 I am an Enthuastic about new technologies
 📚 I am currently studying Networked Operating Systems Administration.
-📝 I have a strong interest in learning about nwe technologies, languages, etc.
+📝 I have a strong interest in learning about new technologies, languages, etc.
 🌱 Focusing on Learning about customer needs and making their lives easier
 🌟 Main languages: Python
 🚩 Interested in Cybersecurity

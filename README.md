@@ -3,7 +3,7 @@
 <a target="_blank" href="https://www.noeliamed.gr"><img src="https://github.com/noeliamed/noeliamed/assets/128001264/e7d9811b-2827-40de-a54e-c2e31cd96f4f"/></a>
 
 <pre>
-💻 Soy un entusiasta de las nuevas tecnologías.
+💻 Soy una entusiasta de las nuevas tecnologías.
 💻 I am enthusiastic about new technologies.
   
 📚 Actualmente estoy estudiando Administración de Sistemas Operativos en Red.

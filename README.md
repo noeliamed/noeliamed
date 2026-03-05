@@ -7,7 +7,8 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
 
-ñ
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
 
 <pre>
 💻 Soy una entusiasta de las nuevas tecnologías.
@@ -51,17 +52,17 @@
 
 
 <div align="center">
-  <h3><b>¡Pongámonos en contacto! Let's get in touch! </b></h3>
+  <h3><b>¡Pongámonos en contacto! </b></h3>
 </div>
 <p align="center">
-<a href="https://https://www.linkedin.com/in/noelia-medina-medina-244643213/" target="_blank">
-  <img align="center" alt="Noelia Medina | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href=https://www.instagram.com/noeliamedina.xo/" target="_blank">
-  <img align="center" alt="Noelia Medina | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:noelia27medina@gmail.com" >
-  <img align="center" alt="Noelia Medina | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
+	<a href="mailto:noelia27medina.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/noeliamed"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.instagram.com/noeliamedina.xo/><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://https://www.linkedin.com/in/noelia-medina-medina-244643213/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+</p>
 <p>
+
+
+
+
 

@@ -5,7 +5,7 @@
 
 <br>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
 
 
 <pre>
@@ -32,6 +32,22 @@
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-darkblue.svg?style=for-the-badge&logo=python&logoColor=white)
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/noeliamed">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=noeliamed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/noeliamed">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=noeliamed&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+
+
+
 
 <div align="center">
   <h3><b>¡Pongámonos en contacto! Let's get in touch! </b></h3>
